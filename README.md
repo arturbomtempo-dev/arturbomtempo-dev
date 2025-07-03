@@ -33,10 +33,14 @@ Turning ideas into reality through software has always been my goal. My journey 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
 </picture>
 
+---
+
 ## ⭐️ &nbsp;GitHub Stats
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arturbomtempo-dev&theme=merko&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arturbomtempo-dev&theme=merko&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+<a href="https://github.com/arturbomtempo-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturbomtempo-dev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturbomtempo-dev&layout=compact&langs_count=6&theme=merko"/>
+</a>
 
 ---
 
