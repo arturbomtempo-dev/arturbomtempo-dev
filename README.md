@@ -1,52 +1,78 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=header"/>
+![Hello, my name is Artur Bomtempo](./resources/banner.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Artur+Bomtempo;I'm+a+Software+Engineering+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Artur Bomtempo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arturbomtempo-dev&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/arturbomtempo-dev/)
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=arturbomtempo-dev&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arturbomtempo-dev&show_icons=true&count_private=true&hide_border=true&title_color=67cb57&icon_color=67cb57&text_color=c9d1d9&bg_color=0d1117" alt="Artur Bomtempo github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturbomtempo-dev&layout=compact&hide_border=true&title_color=67cb57&text_color=67cb57&bg_color=0d1117" />
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"> Welcome to my profile!
+      </h1>
+    </summary>
+  </ul>
 </div>
 
-<div align="center"> 
-    <a href = "mailto:arturbcolen@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
-    <a href = "https://www.instagram.com/arturbomtempo.dev/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-67cb57?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/artur-bomtempo/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
-    <a href="https://medium.com/@arturbcolen" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Medium-67cb57?style=for-the-badge&logo=medium&logoColor=fff" target="_blank"></a>
-</div>
+## 👤 &nbsp;About Me
 
-<br>
+Turning ideas into reality through software has always been my goal. My journey began at 15 with a technical IT course, and since then I’ve been exploring web and chatbot development, enjoying every step of the learning process. Teaching and sharing knowledge is a big part of what I do today.
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=arturbomtempo-dev&color=67cb57" alt="Profile views" />
-</div>
+### Quick Facts
 
-<br>
-<br>
+- 🎓 Currently studying Software Engineering at PUC Minas
+- 💻 Experienced with Node.js, Java, chatbot & web projects
+- 📺 Content creator on YouTube and Instagram, passionate about helping others
+- 🚀 Co-founded and served as CXO at a startup
+
+### Connect with me
+
+<p align="left"><a href="mailto:arturbcolen@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/arturbomtempo.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/artur-bomtempo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@ArturBomtempoDev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+## ⭐️ &nbsp;GitHub Stats
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arturbomtempo-dev&theme=merko&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arturbomtempo-dev&theme=merko&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+
+---
 
 ## 🛠 &nbsp;Languages & Techs
 
-### 👨🏻‍💻 &nbsp;Back-end
+### Tools
+
+[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,cypress,apple,windows,vscode,idea,npm,pnpm,bash)](https://github.com/arturbomtempo-dev)
+
+### Back-end
 
 [![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,maven,php,python,django,typescript,prisma,c,cpp,cs)](https://github.com/arturbomtempo-dev)
 
-### 🎨 &nbsp;Front-end
+### Front-end
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,jquery,bootstrap,sass)](https://github.com/arturbomtempo-dev)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,jquery,bootstrap,sass,styledcomponents)](https://github.com/arturbomtempo-dev)
 
-### 🗃️ &nbsp;Database
+### Database
 
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase)](https://github.com/arturbomtempo-dev)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,firebase)](https://github.com/arturbomtempo-dev)
 
-### 📱 &nbsp;Mobile
+### Mobile
 
 [![Mobile Development Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://github.com/arturbomtempo-dev)
 
 <br>
+
+[![Artur Bomtempo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arturbomtempo-dev&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/arturbomtempo-dev/)
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=arturbomtempo-dev&theme=matrix&bg_color=0d1117&row=1&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">
+<br><p align="centre"><b>Visitor Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/arturbomtempo-dev/count.svg"/></p> 
+<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=footer"/>
