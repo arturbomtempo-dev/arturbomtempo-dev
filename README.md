@@ -1,4 +1,4 @@
-<img align="center" src="./resources/banner.png" alt="Banner of Artur Bomtempo">
+<img align="center" src="./resources/profile-banner.png" alt="Banner of Artur Bomtempo">
 
 <div id="toc">
   <ul align="center" style="list-style: none">
