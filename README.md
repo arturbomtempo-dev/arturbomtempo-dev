@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="./resources/banner.png" alt="Hello, my name is Artur Bomtempo">
-</p>
+<img src="./resources/banner.png" alt="Banner of Artur Bomtempo">
 
 <div id="toc">
   <ul align="center" style="list-style: none">
