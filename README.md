@@ -1,4 +1,6 @@
-![Hello, my name is Artur Bomtempo](./resources/banner.png)
+<p align="center">
+    <img src="./resources/banner.png" alt="Hello, my name is Artur Bomtempo">
+</p>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -68,7 +70,7 @@ Turning ideas into reality through software has always been my goal. My journey 
 
 <br>
 
-[![Artur Bomtempo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arturbomtempo-dev&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/arturbomtempo-dev/)
+[![Artur Bomtempo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arturbomtempo-dev&bg_color=0d1117&color=008000&line=008000&point=008000&area=true&area_color=008000&hide_border=true)](https://github.com/arturbomtempo-dev/)
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=arturbomtempo-dev&theme=matrix&bg_color=0d1117&row=1&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
@@ -79,4 +81,4 @@ Turning ideas into reality through software has always been my goal. My journey 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/arturbomtempo-dev/count.svg"/></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
