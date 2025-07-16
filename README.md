@@ -1,4 +1,12 @@
-<img align="center" src="./resources/profile-banner.png" alt="Banner of Artur Bomtempo">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Artur+Bomtempo;I'm+a+Software+Engineering+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Artur Bomtempo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arturbomtempo-dev&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/arturbomtempo-dev/)
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=arturbomtempo-dev&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
+</p>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -23,7 +31,10 @@ Turning ideas into reality through software has always been my goal. My journey 
 
 ### Connect with me
 
-<p align="left"><a href="mailto:arturbcolen@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/arturbomtempo.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/artur-bomtempo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@ArturBomtempoDev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<a href = "mailto:arturbcolen@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
+<a href = "https://www.instagram.com/arturbomtempo.dev/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-67cb57?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
+<a href="https://www.linkedin.com/in/artur-bomtempo/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
+<a href="https://medium.com/@arturbcolen" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Medium-67cb57?style=for-the-badge&logo=medium&logoColor=fff" target="_blank"></a>
 
 ---
 
@@ -68,15 +79,8 @@ Turning ideas into reality through software has always been my goal. My journey 
 
 <br>
 
-[![Artur Bomtempo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arturbomtempo-dev&bg_color=0d1117&color=008000&line=008000&point=008000&area=true&area_color=008000&hide_border=true)](https://github.com/arturbomtempo-dev/)
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=arturbomtempo-dev&theme=matrix&bg_color=0d1117&row=1&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center">
-<br><p align="centre"><b>Visitor Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/arturbomtempo-dev/count.svg"/></p> 
-<br></div>
+    <img src="https://komarev.com/ghpvc/?username=arturbomtempo-dev&color=67cb57" alt="Profile views" />
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=footer"/>
