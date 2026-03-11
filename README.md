@@ -76,7 +76,8 @@ Turning ideas into reality through software has always been my goal. My journey 
 <br>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=arturbomtempo-dev&color=67cb57" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=arturbomtempo-dev&color=67cb57" alt="Profile views" /><br>
+    <img src="https://wakatime.com/badge/user/6a2eeb3c-612f-49ce-99fa-0fa6add668bc.svg" alt="Total time coded since Mar 4 2026" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=footer"/>
