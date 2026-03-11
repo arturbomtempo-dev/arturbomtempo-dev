@@ -24,6 +24,7 @@ Turning ideas into reality through software has always been my goal. My journey 
 - 💻 Experienced with Node.js, Java, chatbot & web projects
 - 📺 Content creator on YouTube and Instagram, passionate about helping others
 - 🚀 Co-founded and served as CXO at a startup
+- 📚 This profile contains the projects and materials I develop. For study notes and learning experiments, check out my organization: [arturbomtempo-learning](https://github.com/arturbomtempo-learning)
 
 ### Connect with me
 
