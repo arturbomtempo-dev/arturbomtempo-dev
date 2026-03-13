@@ -60,7 +60,7 @@ Turning ideas into reality through software has always been my goal. My journey 
 
 ### Back-end
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,nest,java,spring,maven,php,python,django,typescript,prisma,cs,dotnet)](https://github.com/arturbomtempo-dev)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,nest,java,spring,maven,php,python,fastapi,django,typescript,prisma,cs,dotnet)](https://github.com/arturbomtempo-dev)
 
 ### Front-end
 
