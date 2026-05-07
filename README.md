@@ -8,7 +8,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        <img src="https://arturbomtempo-dev.github.io/artur-bomtempo-cdn/assets/images/profile/waving-hand.gif" width="30px"> Welcome to my profile!
+        <img src="https://arturbomtempo-dev.github.io/arturbomtempo-cdn/assets/images/profile/waving-hand.gif" width="30px"> Welcome to my profile!
       </h1>
     </summary>
   </ul>
