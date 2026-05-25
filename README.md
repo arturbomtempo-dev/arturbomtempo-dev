@@ -64,7 +64,7 @@ Turning ideas into reality through software has always been my goal. My journey 
 
 ### Front-end
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,jquery,bootstrap,sass,styledcomponents)](https://github.com/arturbomtempo-dev)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vue,vite,tailwind,jquery,bootstrap,sass,styledcomponents)](https://github.com/arturbomtempo-dev)
 
 ### Database
 
