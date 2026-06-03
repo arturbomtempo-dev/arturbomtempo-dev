@@ -43,11 +43,15 @@ Turning ideas into reality through software has always been my goal. My journey 
 
 ---
 
-## ⭐️ &nbsp;GitHub Stats
+## ⭐️ &nbsp;Stats
 
-<a href="https://github.com/arturbomtempo-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturbomtempo-dev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturbomtempo-dev&layout=compact&langs_count=6&theme=merko"/>
+<a href="https://nice-readme.vercel.app/wakatime" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://helio-github-stats.vercel.app/api/wakatime?username=bomtempo&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=10&theme=merko"
+    alt="WakaTime Stats"
+    width="466"
+    loading="lazy"
+  />
 </a>
 
 ---
