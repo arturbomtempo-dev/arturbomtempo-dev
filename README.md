@@ -45,14 +45,23 @@ Turning ideas into reality through software has always been my goal. My journey 
 
 ## ⭐️ &nbsp;Stats
 
-<a href="https://nice-readme.vercel.app/wakatime" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://helio-github-stats.vercel.app/api/wakatime?username=bomtempo&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=10&theme=merko"
-    alt="WakaTime Stats"
-    width="466"
-    loading="lazy"
-  />
-</a>
+<p align="center">
+  <a href="https://wakatime.com/@bomtempo" target="_blank" rel="noopener noreferrer">
+    <img
+      width="49%"
+      src="https://helio-github-stats.vercel.app/api/wakatime?username=bomtempo&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=percent&disable_animations=false&langs_count=8&theme=merko"
+      alt="WakaTime Stats"
+    />
+  </a>
+
+  <a href="https://github.com/arturbomtempo-dev" target="_blank" rel="noopener noreferrer">
+    <img
+      width="49%"
+      src="https://github-streak-stats-ruby.vercel.app/?user=arturbomtempo-dev&theme=merko&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
+      alt="GitHub Streak de arturbomtempo-dev"
+    />
+  </a>
+</p>
 
 ---
 
