@@ -69,15 +69,15 @@ Turning ideas into reality through software has always been my goal. My journey 
 
 ### Tools
 
-[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,cypress,apple,windows,vscode,idea,npm,pnpm,bash,azure)](https://github.com/arturbomtempo-dev)
+[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,cypress,npm,bash,azure)](https://github.com/arturbomtempo-dev)
 
 ### Back-end
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,nest,java,spring,maven,php,python,fastapi,django,typescript,prisma,cs,dotnet)](https://github.com/arturbomtempo-dev)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,nest,spring,fastapi,django,prisma,cs,dotnet)](https://github.com/arturbomtempo-dev)
 
 ### Front-end
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vue,vite,tailwind,jquery,bootstrap,sass,styledcomponents)](https://github.com/arturbomtempo-dev)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=react,next,vue,tailwind,jquery,bootstrap,sass,styledcomponents)](https://github.com/arturbomtempo-dev)
 
 ### Database
 
