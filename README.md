@@ -43,7 +43,7 @@ Turning ideas into reality through software has always been my goal. My journey 
 
 ---
 
-## ⭐️ &nbsp;Stats
+## ⭐️ &nbsp;GitHub Stats
 
 <p align="center">
   <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer">
