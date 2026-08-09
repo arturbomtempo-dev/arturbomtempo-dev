@@ -57,8 +57,8 @@ Turning ideas into reality through software has always been my goal. My journey 
   <a href="https://github.com/arturbomtempo-dev" target="_blank" rel="noopener noreferrer">
     <img
       width="49%"
-      src="https://github-streak-stats-ruby.vercel.app/?user=arturbomtempo-dev&theme=merko&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
-      alt="GitHub Streak de arturbomtempo-dev"
+      src="https://streak-stats.demolab.com/?user=arturbomtempo-dev&theme=merko&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
+      alt="GitHub Streak"
     />
   </a>
 </p>
