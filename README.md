@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Artur+Bomtempo;I'm+a+Software+Developer+at+dti+digital;Currently+studying+Software+Engineering;I+create+technology+content;Always+learning+and+teaching)](https://git.io/typing-svg)
 
-[![Artur Bomtempo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arturbomtempo-dev&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/arturbomtempo-dev/)
+[![Artur Bomtempo's GitHub Activity Graph](https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/activity-graph.svg)](https://github.com/arturbomtempo-dev/)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
