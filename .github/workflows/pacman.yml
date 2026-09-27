@@ -2,13 +2,17 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
     - main
+
+concurrency:
+  group: output-branch
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -29,5 +33,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
