@@ -37,7 +37,6 @@ jobs:
               "area": true,
               "area_color": "abd200",
               "radius": 5,
-              "height": 300,
               "days": 31,
               "custom_title": "GitHub Activity"
             }
