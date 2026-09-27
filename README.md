@@ -46,7 +46,7 @@ Turning ideas into reality through software has always been my goal. My journey 
 ## ⭐️ &nbsp;GitHub Stats
 
 <p align="center">
-  <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/arturbomtempo-dev" target="_blank" rel="noopener noreferrer">
     <img
       width="49%"
       src="https://helio-github-stats.vercel.app/api/top-langs?username=arturbomtempo-dev&layout=compact&stats_format=percentages&theme=merko&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+Used+Languages&hide=html%2Ccss&langs_count=8"
