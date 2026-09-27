@@ -25,21 +25,22 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
 
-          options: >-
-            theme=merko&
-            bg_color=0d1117&
-            color=67cb57&
-            title_color=67cb57&
-            line=67cb57&
-            point=3fa34d&
-            area_color=67cb57&
-            area=true&
-            hide_border=true&
-            radius=8&
-            height=300&
-            days=31&
-            grid=true&
-            custom_title=GitHub%20Activity
+          options: |
+            {
+              "theme": "merko",
+              "bg_color": "0a0f0b",
+              "border_color": "e4e2e2",
+              "title_color": "abd200",
+              "color": "68b587",
+              "line": "abd200",
+              "point": "b7d364",
+              "area": true,
+              "area_color": "abd200",
+              "radius": 5,
+              "height": 300,
+              "days": 31,
+              "custom_title": "GitHub Activity"
+            }
 
           output_path: dist/activity-graph.svg
 
