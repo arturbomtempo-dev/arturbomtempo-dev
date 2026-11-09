@@ -16,13 +16,14 @@
 
 ## 👤 &nbsp;About Me
 
-Turning ideas into reality through software has always been my goal. My journey began at 15 with a technical IT course, and since then I’ve been exploring web and chatbot development, enjoying every step of the learning process. Teaching and sharing knowledge is a big part of what I do today.
+Turning ideas into reality through software has always been my goal. My journey began at 15 with a technical IT course, and since then I’ve been exploring software development and enjoying every step of the learning process. Teaching and sharing knowledge are a big part of what I do today.
 
 ### Quick Facts
 
-- 🎓 Currently studying Software Engineering at PUC Minas
-- 💻 Experienced with Node.js, Java, chatbot & web projects
-- 📺 Content creator on YouTube and Instagram, passionate about helping others
+- 🔥 Software Engineer at [Hotmart](https://hotmart.com)
+- 🎓 Currently studying Software Engineering at [PUC Minas](https://www.pucminas.br)
+- 🚀 Chapter Lead at [WebTech Network](https://webtech.network), an extension project focused on technology and knowledge sharing
+- 📺 Content creator on [YouTube](https://www.youtube.com/@ArturBomtempoDev) and [Instagram](https://www.instagram.com/arturbomtempo.dev), sharing knowledge and helping others learn
 - 🦆 Creator and maintainer of [Reqly](https://github.com/reqly-labs), an open-source ecosystem focused on API testing and developer productivity
 - 📚 This profile contains the projects and materials I develop. For study notes and learning experiments, check out my organization: [arturbomtempo-learning](https://github.com/arturbomtempo-learning)
 
